@@ -1,0 +1,45 @@
+.text-primary {
+    color: red !important;
+}
+.text-secondary {
+    color: red !important;
+}
+.text-success {
+    color: red !important;
+}
+.text-danger {
+    color: red !important;
+}
+.text-warning {
+    color: red !important;
+}
+.text-info {
+    color: red !important;
+}
+.text-light {
+    color: red !important;
+}
+.text-dark {
+    color: red !important;
+}
+.text-muted {
+    color: red !important;
+}
+.text-white {
+    color: red !important;
+}
+
+.miclase {
+    height: 100px;
+    background-color: red;
+}
+/* <p class="bg-light text-secondary">Secondary background color.</p>
+<p class="bg-light text-">This text indicates success.</p>
+<p class="bg-light text-">This text represents danger.</p>
+<p class="bg-light text-">This text represents a warning.</p>
+<p class="bg-light text-">This text represents some information.</p>
+<p class="bg-light text-">Light grey background color.</p>
+<p class="bg-light text-">Dark grey background color.</p>
+<p class="bg-light text-muted">MUTED.</p>
+<p class="bg-light text-">White.</p>
+ */
